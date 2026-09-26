@@ -11,13 +11,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:iss-alsdorf-1790450400-6f60d5f9377e@iss-alsdorf
-DTSTAMP:20260926T123523Z
-DTSTART:20260926T192331Z
-DTEND:20260926T192602Z
+DTSTAMP:20260926T183401Z
+DTSTART:20260926T192330Z
+DTEND:20260926T192601Z
 SUMMARY:🛰️ ISS sichtbar – ca. 3 Min.
 DESCRIPTION:Sichtbarer ISS-Überflug über Alsdorf\nSichtbar: 21:23–21:26 U
  hr\nHöchster Punkt: 21:24 Uhr bei 12° Richtung SW\nBeginn: WSW (245°)\nE
- nde: SSW (201°)\n\nBerechnet für Alsdorf-Stadtmitte. Sichtbarkeit kann d
+ nde: SSW (202°)\n\nBerechnet für Alsdorf-Stadtmitte. Sichtbarkeit kann d
  urch Wolken und lokale Hindernisse eingeschränkt sein.
 LOCATION:Alsdorf, Nordrhein-Westfalen
 TRANSP:TRANSPARENT
@@ -29,13 +29,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:iss-alsdorf-1790533800-35d3eb57c2e3@iss-alsdorf
-DTSTAMP:20260926T123523Z
-DTSTART:20260927T183535Z
-DTEND:20260927T184009Z
+DTSTAMP:20260926T183401Z
+DTSTART:20260927T183530Z
+DTEND:20260927T184004Z
 SUMMARY:🛰️ ISS sichtbar – ca. 5 Min.
 DESCRIPTION:Sichtbarer ISS-Überflug über Alsdorf\nSichtbar: 20:35–20:40 U
  hr\nHöchster Punkt: 20:37 Uhr bei 17° Richtung SW\nBeginn: W (262°)\nEnd
- e: S (176°)\n\nBerechnet für Alsdorf-Stadtmitte. Sichtbarkeit kann durch
+ e: S (177°)\n\nBerechnet für Alsdorf-Stadtmitte. Sichtbarkeit kann durch
   Wolken und lokale Hindernisse eingeschränkt sein.
 LOCATION:Alsdorf, Nordrhein-Westfalen
 TRANSP:TRANSPARENT
@@ -47,12 +47,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:iss-alsdorf-1790617800-0b70813389f2@iss-alsdorf
-DTSTAMP:20260926T123523Z
-DTSTART:20260928T175306Z
-DTEND:20260928T175342Z
+DTSTAMP:20260926T183401Z
+DTSTART:20260928T175305Z
+DTEND:20260928T175330Z
 SUMMARY:🛰️ ISS sichtbar – ca. 1 Min.
 DESCRIPTION:Sichtbarer ISS-Überflug über Alsdorf\nSichtbar: 19:53–19:53 U
- hr\nHöchster Punkt: 19:53 Uhr bei 13° Richtung SSO\nBeginn: SSO (165°)\n
+ hr\nHöchster Punkt: 19:53 Uhr bei 12° Richtung SSO\nBeginn: SSO (163°)\n
  Ende: SSO (159°)\n\nBerechnet für Alsdorf-Stadtmitte. Sichtbarkeit kann 
  durch Wolken und lokale Hindernisse eingeschränkt sein.
 LOCATION:Alsdorf, Nordrhein-Westfalen
@@ -65,13 +65,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:iss-alsdorf-1790790600-04dafbbb38ed@iss-alsdorf
-DTSTAMP:20260926T123523Z
-DTSTART:20260930T175149Z
-DTEND:20260930T175408Z
+DTSTAMP:20260926T183401Z
+DTSTART:20260930T175117Z
+DTEND:20260930T175339Z
 SUMMARY:🛰️ ISS sichtbar – ca. 2 Min.
-DESCRIPTION:Sichtbarer ISS-Überflug über Alsdorf\nSichtbar: 19:51–19:54 U
+DESCRIPTION:Sichtbarer ISS-Überflug über Alsdorf\nSichtbar: 19:51–19:53 U
  hr\nHöchster Punkt: 19:52 Uhr bei 11° Richtung SW\nBeginn: WSW (244°)\nE
- nde: SSW (204°)\n\nBerechnet für Alsdorf-Stadtmitte. Sichtbarkeit kann d
+ nde: SSW (203°)\n\nBerechnet für Alsdorf-Stadtmitte. Sichtbarkeit kann d
  urch Wolken und lokale Hindernisse eingeschränkt sein.
 LOCATION:Alsdorf, Nordrhein-Westfalen
 TRANSP:TRANSPARENT
